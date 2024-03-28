@@ -377,13 +377,15 @@
   padding-bottom: 60px;
 }
 
-.footer__column_content_hours {
+.footer__columns_content_hours {
   color: #fff;
   padding-left: auto;
   align-items: center;
 }
 
-.footer__column_content_social {
+.footer__columns_content_social {
+  color: white;
+  padding-left: auto;
   align-items: center;
 }
 
@@ -394,10 +396,11 @@
   padding-bottom: 100px;
 }
 
-.footer__column-heading {
+.footer__columns-heading {
   list-style-type: none;
   align-items: center;
   padding-bottom: 20px;
+  color: white;
 }
 
 .footer__list {
@@ -410,6 +413,7 @@
   list-style-type: none;
   margin: 0;
   padding-bottom: 16px;
+  color: white;
 }
 
 .footer__column-link {
