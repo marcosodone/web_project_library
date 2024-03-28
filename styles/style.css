@@ -363,17 +363,14 @@
   box-sizing: border-box;
   background-color: #1f1f1f;
   padding: 20px 20px;
-  justify-content: space-around;
+  justify-content: space-evenly;
   flex-direction: row;
 }
 
 .footer__columns {
   list-style-type: none;
-  margin: 100px 0 0;
   display: flex;
-  justify-content: space-evenly;
   flex-direction: column;
-  align-items: center;
   padding-left: 80px;
   padding-right: 80px;
   padding-top: 60px;
@@ -391,7 +388,6 @@
 }
 
 .footer__logo {
-  justify-content: center;
   width: 56px;
   height: 80px;
   align-items: center;
@@ -426,6 +422,6 @@
   height: 16px;
 }
 
-.footer_copyright {
+.footer__copyright {
   color: white;
 }
