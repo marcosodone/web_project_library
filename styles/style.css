@@ -367,7 +367,7 @@
   flex-direction: row;
 }
 
-.footer__columns {
+.footer__column {
   list-style-type: none;
   display: flex;
   flex-direction: column;
@@ -377,13 +377,13 @@
   padding-bottom: 60px;
 }
 
-.footer__columns_content_hours {
+.footer__column_content_hours {
   color: #fff;
   padding-left: auto;
   align-items: center;
 }
 
-.footer__columns_content_social {
+.footer__column_content_social {
   color: white;
   padding-left: auto;
   align-items: center;
@@ -396,7 +396,7 @@
   padding-bottom: 100px;
 }
 
-.footer__columns-heading {
+.footer__column-heading {
   list-style-type: none;
   align-items: center;
   padding-bottom: 20px;
