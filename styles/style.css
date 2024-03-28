@@ -367,7 +367,7 @@
   flex-direction: row;
 }
 
-.footer__columns {
+.footer__column {
   list-style-type: none;
   display: flex;
   flex-direction: column;
