@@ -327,6 +327,7 @@
   font-weight: 500;
   line-height: 52px;
   align-items: center;
+  text-align: left;
   column-gap: ;
 }
 
@@ -350,6 +351,7 @@
   line-height: 30px;
   font-weight: 700;
   display: flex;
+  align-items: center;
 }
 
 .step__icon {
@@ -416,6 +418,7 @@
 }
 
 .footer__column-link {
+  display:flex;
   color: white;
   text-decoration: none;
   padding-right: 10px;
