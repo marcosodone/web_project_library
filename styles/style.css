@@ -323,7 +323,6 @@
 .membership__title {
   max-width: 574px;
   margin: 0 auto;
-  text-align: center;
   font-size: 44px;
   font-weight: 500;
   line-height: 52px;
@@ -331,7 +330,7 @@
 
 .membership__steps {
   list-style-type: none;
-  padding: 0 220px;
+  padding: 40px 220px;
   margin: 100px 0 0;
   display: flex;
   justify-content: center;
@@ -362,6 +361,7 @@
   box-sizing: border-box;
   background-color: #1f1f1f;
   padding: 60px 80px;
+  color: white;
 }
 
 .footer__columns {
@@ -385,7 +385,7 @@
 }
 
 .footer__logo {
-  width: 56px;
+  width: 58px;
   height: 80px;
   align-items: center;
   padding-bottom: 100px;
@@ -395,7 +395,7 @@
 .footer__column-heading {
   list-style-type: none;
   align-items: center;
-  padding-bottom: 20px;
+  margin-bottom: 20px;
   color: white;
 }
 
@@ -408,13 +408,15 @@
 .footer__list-item {
   list-style-type: none;
   margin: 0;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
   color: white;
 }
 
 .footer__column-link {
   color: white;
   text-decoration: none;
+  padding-right: 10px;
+  align-items: center;
 }
 
 .footer__social-icon {
@@ -424,4 +426,5 @@
 
 .footer__copyright {
   color: white;
+  margin-top: 100px;
 }
