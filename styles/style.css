@@ -322,7 +322,9 @@
 
 .membership__title {
   max-width: 574px;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-right: auto;
   font-size: 44px;
   font-weight: 500;
   line-height: 52px;
