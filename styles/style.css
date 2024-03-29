@@ -359,34 +359,28 @@
 }
 
 .footer {
-  display: flex;
   box-sizing: border-box;
   background-color: #1f1f1f;
-  padding: 20px 20px;
-  justify-content: space-evenly;
-  flex-direction: row;
+  padding: 60px 80px;
 }
 
 .footer__columns {
   list-style-type: none;
   display: flex;
-  flex-direction: column;
   margin: 0 auto;
-  padding-left: 80px;
-  padding-right: 80px;
-  padding-top: 60px;
-  padding-bottom: 60px;
+
+  justify-content: space-between;
 }
 
 .footer__columns_content_hours {
   color: #fff;
-  padding-left: auto;
+  margin-left: auto;
   align-items: center;
 }
 
 .footer__columns_content_social {
   color: white;
-  padding-left: auto;
+  margin-left: 80px;
   align-items: center;
 }
 
