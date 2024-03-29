@@ -332,7 +332,7 @@
 
 .membership__steps {
   list-style-type: none;
-  padding bottom: 220px;
+  padding: 0;
   column-gap: 40px;
   margin: 100px 0 0;
   display: flex;
@@ -417,7 +417,7 @@
 }
 
 .footer__column-link {
-  display:flex;
+  display: flex;
   color: white;
   text-decoration: none;
   padding-right: 10px;
