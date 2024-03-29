@@ -372,13 +372,13 @@
   justify-content: space-between;
 }
 
-.footer__columns_content_hours {
+.footer__column_content_hours {
   color: #fff;
   margin-left: auto;
   align-items: center;
 }
 
-.footer__columns_content_social {
+.footer__column_content_social {
   color: white;
   margin-left: 80px;
   align-items: center;
