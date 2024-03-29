@@ -322,15 +322,12 @@
 
 .membership__title {
   max-width: 574px;
-  margin-left: auto;
-  margin-top: auto;
-  margin-right: auto;
+  margin: 0 auto;
   font-size: 44px;
   font-weight: 500;
   line-height: 52px;
   align-items: center;
   text-align: center;
-  column-gap: ;
 }
 
 .membership__steps {
